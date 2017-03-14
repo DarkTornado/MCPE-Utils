@@ -1,4 +1,4 @@
-# MCPE-Utils
+# MCPE Utils
 
 © 2016-2017 Dark Tornado, All rights reserved.
 
@@ -44,18 +44,18 @@ This ModPE Script include malicious code.
 - World Edit Window
   - Foot Block
   - Block Replace
-  - set
-  - replace
-  - copy
-  - paste
-  - circle
-  - circlef
-  - sphere
-  - spheref
-  - cylin
-  - no tree
-  - no water
-  - remove
+  - /set
+  - /replace
+  - /copy
+  - /paste
+  - /circle
+  - /circlef
+  - /sphere
+  - /spheref
+  - /cylin
+  - /no tree
+  - /no water
+  - /remove
 - Time Settings
 - World Info.
 - Health/Hunger
