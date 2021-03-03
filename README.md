@@ -4,9 +4,7 @@
 
 * You cannot use MCPE Utils' source, but you can reference it.
 * Sharing MCPE Utils is NOT allowed .
-
 * This ModPE needs [MCPE Class Library.js](https://github.com/DarkTornado/ModPE-Library/blob/master/MCPE%20Class%20Library.js).
-
 * This ModPE Script include malicious code.
 
 ## <Function List>
